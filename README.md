@@ -1,6 +1,9 @@
-# M-IT-2-Coding-Competition-2024
+# M-IT-2 Coding Competition 2024
 
-This repository contains my solutions to the problems I tackled during the M-IT-2-Coding-Competition-2024. The competition was a thrilling experience filled with innovative and challenging problems. Below, you'll find a summary of the problems and the code implementations.
+This repository showcases my solutions to the problems I encountered during the M-IT-2 Coding Competition 2024. The competition was an exhilarating journey filled with innovation, teamwork, and challenging problems that pushed the boundaries of creative thinking. Participating in this event was an incredible learning experience where I honed my problem-solving skills and collaborated with an amazing team.
+
+To verify and learn more about my participation, you can check out my LinkedIn post below:  
+[LinkedIn Post](https://www.linkedin.com/posts/danishmustafa86_mit-programming-leetcode-activity-7287015701360357376-a6Eh?utm_source=share&utm_medium=member_desktop)
 
 ## Team Members:
 
@@ -10,16 +13,16 @@ This repository contains my solutions to the problems I tackled during the M-IT-
         <tr>
             <td align="center">
                 <a href="https://github.com/danishmustafa86">
-                    <img src="" width="100px;" alt="Danish Mustafa"/>
+                    <img src="https://avatars.githubusercontent.com/u/135536662?v=4" width="100px;" alt="Danish Mustafa"/>
                     <br />
-                    <sub><b>Hassan Mehmood</b></sub>
+                    <sub><b>Danish Mustafa</b></sub>
                 </a> 
             </td>
-          <td align="center">
-                <a href="https://github.com/abdullahsajid">
-                    <img src="https://avatars.githubusercontent.com/u/138194224?v=4" width="100px;" alt="Fareeha Amir"/>
+            <td align="center">
+                <a href="https://github.com/abdullahsajid0">
+                    <img src="https://avatars.githubusercontent.com/u/174111539?v=4" width="100px;" alt="Abdullah Sajid"/>
                     <br />
-                    <sub><b>Abudllah Sajid</b></sub>
+                    <sub><b>Abdullah Sajid</b></sub>
                 </a> 
             </td>
             <td align="center">
@@ -30,26 +33,14 @@ This repository contains my solutions to the problems I tackled during the M-IT-
                 </a> 
             </td>
         </tr> 
-</tbody>
-<table>
+    </tbody>
+</table>
 
 ---
-![M-IT-2-Coding-Competition-2024](Images/mainpage.jpg "UC Berkeley Logo")
 
-## Repository Structure  
+![M-IT-2 Coding Competition 2024](Images/mainpage.jpg "M-IT-2 Contest")
 
-```plaintext
-.
-├── MIT Coding Contest/
-│   ├── Advance Round 1                        # Solution to the CALICOnstruction problem
-│   └── Advance Round 2 + Begineer Round       # For understanding the problem
-├── Images/
-|   ├── Problems.png         # All problems
-│   ├── Ranking.png          # Solution to the Coding 90s in Loot List problem
-│   └── Active.png           # For understanding the problem
-└── README.md                # This file
 
-```
 ---
 
 ## My Problem Table:
