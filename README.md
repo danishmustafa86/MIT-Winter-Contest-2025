@@ -65,4 +65,4 @@ This repository contains my solutions to the problems I tackled during the M-IT-
 
 | Problem | Solve | Statement |
 | ------- | ----- | --------- |
-| ![Problem Image](Images/1.png "MIT-2 Contest") | ![Solve Image](Images/2.jpg "MIT-2 Contest") | ![Statement Image](Images/3.jpg "MIT-2 Contest") |
+| ![Problem Image](Images/1.jpg "MIT-2 Contest") | ![Solve Image](Images/2.jpg "MIT-2 Contest") | ![Statement Image](Images/3.jpg "MIT-2 Contest") |
