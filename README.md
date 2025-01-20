@@ -34,7 +34,7 @@ This repository contains my solutions to the problems I tackled during the M-IT-
 <table>
 
 ---
-![M-IT-2-Coding-Competition-2024](Images/mainpage.png "UC Berkeley Logo")
+![M-IT-2-Coding-Competition-2024](Images/mainpage.jpg "UC Berkeley Logo")
 
 ## Repository Structure  
 
@@ -54,11 +54,11 @@ This repository contains my solutions to the problems I tackled during the M-IT-
 
 ## My Problem Table:
 
-![UC Berkeley Logo](Images/Problems.png "MIT-2 Contest")
+![UC Berkeley Logo](Images/Problems.jpg "MIT-2 Contest")
 
 ## My Ranking:
 
-![UC Berkeley Logo](Images/rank.png "ranking picture")
+![UC Berkeley Logo](Images/rank.jpg "ranking picture")
 
 
 ## Some Insights During Contests:
