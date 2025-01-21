@@ -26,8 +26,8 @@ To verify and learn more about my participation, you can check out my LinkedIn p
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/fareehaamir">
-                    <img src="" width="100px;" alt="Fareeha Amir"/>
+                <a href="https://github.com/faree777">
+                    <img src="https://avatars.githubusercontent.com/u/139102731?v=4" width="100px;" alt="Fareeha Amir"/>
                     <br />
                     <sub><b>Fareeha Amir</b></sub>
                 </a> 
